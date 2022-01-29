@@ -33,12 +33,4 @@
  ./Cipher2
 ```
 
-Contact
-=
-
-- Linkedin : https://.linkedin.com/in/mohammed-khalid-3d43a51b3
-- Facebook : Mohammed Khalid 
-- Twitter: @DaRk35963877
-- Email : darker7800@gmail.com
-- 
 # Cipher2
