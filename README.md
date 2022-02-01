@@ -18,8 +18,7 @@
  apt install g++
  apt install build-essential
  cd Cipher2
- g++ Cipher2.c++ -o Cipher2
- ./Cipher2
+ make
  ```
 
 # Termux
@@ -29,8 +28,9 @@
  pkg install figlet
  pkg install g++
  cd Cipher2
- g++ Cipher2.c++ -o Cipher2
- ./Cipher2
+ make
 ```
-
-# Cipher2
+# clean
+```bash
+ make clean
+```
