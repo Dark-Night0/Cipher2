@@ -8,7 +8,7 @@ string decrypt(string test, int key);
 void display();
 int main()
 {
-
+    system("clear");
     display();
 
     return 0;
